@@ -82,13 +82,13 @@ Aqui estamos:
 ### 1. Compilar
 
 ```bash id="8y7tqk"
-g++ variaveis.cpp -o variaveis
+g++ aula2.cpp -o aula2
 ```
 
 ### 2. Executar
 
 ```bash id="m0r4yx"
-./variaveis
+./aula2
 ```
 
 ---
@@ -96,7 +96,7 @@ g++ variaveis.cpp -o variaveis
 ##  Resultado esperado
 
 ```bash id="3l7nvp"
-Nome: Erica
+Nome: Pessoa
 Idade: 21
 Altura: 1.65
 ```
