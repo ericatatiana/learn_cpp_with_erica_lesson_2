@@ -1,134 +1,100 @@
-Projeto C++ - Variáveis 
+# 🐍 Learn Python with Erica — 30 Days
 
-![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge\&logo=cplusplus)
-![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge)
-
----
-
-> 💡 **Nota:** Este README faz parte de uma série para iniciantes em C++, explicando passo a passo os conceitos fundamentais da linguagem.
+This repository contains my journey teaching Python step by step, designed for beginners who want to learn programming in a simple and practical way.
 
 ---
 
-##  Sobre o Projeto
+## About this repository
 
-Neste projeto vais aprender o que são **variáveis** e como utilizá-las em C++.
+This course is structured in **30 days**, where each day introduces a new concept in Python.
 
- Objetivo:
+The goal is to help learners:
 
-* Guardar dados em memória
-* Trabalhar com diferentes tipos de dados
-* Mostrar valores no ecrã
+* Understand programming logic
+* Practice with real examples
+* Build confidence step by step
 
----
+Each lesson contains:
 
-## 💻 Código
-
-```cpp id="k2j4p9"
-#include <iostream>
-using namespace std;
-
-int main() {
-    string nome = "Pessoa";
-    int idade = 21;
-    float altura = 1.65;
-
-    cout << "Nome: " << nome << endl;
-    cout << "Idade: " << idade << endl;
-    cout << "Altura: " << altura << endl;
-
-    return 0;
-}
-```
+* Explanation
+* Example code
+* Practice exercises
 
 ---
 
-##  Explicação do Código
+## Course Structure
 
-###  O que são variáveis?
+###  Fundamentals
 
-Variáveis são espaços na memória usados para guardar dados.
+* Day 1 — Hello World
+* Day 2 — Variables
+* Day 3 — Input & Output
+* Day 4 — Operators
+* Day 5 — Conditionals
+* Day 6 — Exercises
+* Day 7 — Mini Project
 
----
+###  Data Structures & Logic
 
-###  Tipos de variáveis
+* Day 8 — Lists
+* Day 9 — Tuples & Dictionaries
+* Day 10 — For Loop
+* Day 11 — While Loop
+* Day 12 — Functions
+* Day 13 — Exercises
+* Day 14 — Mini Project
 
-```cpp id="z8p4fa"
-string nome = "Pessoa";
-int idade = 21;
-float altura = 1.65;
-```
+###  Intermediate Concepts
 
-* `string` → texto
-* `int` → números inteiros
-* `float` → números decimais
+* Day 15 — Strings
+* Day 16 — List Comprehension
+* Day 17 — Functions (Advanced)
+* Day 18 — Error Handling
+* Day 19 — Modules
+* Day 20 — Files
+* Day 21 — Mini Project
 
----
+###  Practical Python
 
-###  Mostrar valores
-
-```cpp id="2n8l1x"
-cout << "Nome: " << nome << endl;
-```
-
-Aqui estamos:
-
-* exibindo texto
-* juntando com o valor da variável
-
----
-
-##  Como executar
-
-### 1. Compilar
-
-```bash id="8y7tqk"
-g++ aula2.cpp -o aula2
-```
-
-### 2. Executar
-
-```bash id="m0r4yx"
-./aula2
-```
+* Day 22 — APIs
+* Day 23 — Requests
+* Day 24 — JSON
+* Day 25 — Automation
+* Day 26 — Interfaces
+* Day 27 — Guided Project
+* Day 28 — Project Planning
+* Day 29 — Project Development
+* Day 30 — Final Project
 
 ---
 
-##  Resultado esperado
+##  How to use
 
-```bash id="3l7nvp"
-Nome: Pessoa
-Idade: 21
-Altura: 1.65
-```
-
----
-
-##  Objetivo Educacional
-
-Com este exemplo aprendeste:
-
-* O que são variáveis
-* Tipos de dados básicos
-* Como mostrar informação no ecrã
+1. Follow the lessons in order
+2. Read the explanation
+3. Run the code
+4. Practice with exercises
 
 ---
 
-## Próximos passos
+##  Goal
 
-👉 No próximo dia vais aprender:
+By the end of this course, you will be able to:
 
-* Entrada de dados (`cin`)
-* Interação com o utilizador
-
----
-
-## 👩🏽‍💻 Autora
-
-**Erica Tatiana**
-🚀 Desenvolvedora em evolução
+* Write Python programs
+* Solve basic problems using code
+* Build simple projects
 
 ---
 
-## ⭐ Apoio
+## 👩‍💻 Author
 
-Se este projeto te ajudou, deixa uma ⭐ no repositório!
+Erica Tatiana 
+
+---
+
+## ⭐ Note
+Consistency is key.
+Practice every day.
+Consistency is key.
+Practice every day.
