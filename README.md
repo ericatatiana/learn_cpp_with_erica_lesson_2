@@ -26,45 +26,45 @@ Each lesson contains:
 
 ###  Fundamentals
 
-* Day 1 — Hello World
-* Day 2 — Variables
-* Day 3 — Input & Output
-* Day 4 — Operators
-* Day 5 — Conditionals
-* Day 6 — Exercises
-* Day 7 — Mini Project
+* Day 1 - Hello World
+* Day 2 - Variables
+* Day 3 - Input & Output
+* Day 4 - Operators
+* Day 5 - Conditionals
+* Day 6 - Exercises
+* Day 7 - Mini Project
 
 ###  Data Structures & Logic
 
-* Day 8 — Lists
-* Day 9 — Tuples & Dictionaries
-* Day 10 — For Loop
-* Day 11 — While Loop
-* Day 12 — Functions
-* Day 13 — Exercises
-* Day 14 — Mini Project
+* Day 8 - Lists
+* Day 9 - Tuples & Dictionaries
+* Day 10 - For Loop
+* Day 11 - While Loop
+* Day 12 - Functions
+* Day 13 - Exercises
+* Day 14 - Mini Project
 
 ###  Intermediate Concepts
 
-* Day 15 — Strings
-* Day 16 — List Comprehension
-* Day 17 — Functions (Advanced)
-* Day 18 — Error Handling
-* Day 19 — Modules
-* Day 20 — Files
-* Day 21 — Mini Project
+* Day 15 - Strings
+* Day 16 - List Comprehension
+* Day 17 - Functions (Advanced)
+* Day 18 - Error Handling
+* Day 19 - Modules
+* Day 20 - Files
+* Day 21 - Mini Project
 
 ###  Practical Python
 
-* Day 22 — APIs
-* Day 23 — Requests
-* Day 24 — JSON
-* Day 25 — Automation
-* Day 26 — Interfaces
-* Day 27 — Guided Project
-* Day 28 — Project Planning
-* Day 29 — Project Development
-* Day 30 — Final Project
+* Day 22 - APIs
+* Day 23 - Requests
+* Day 24 - JSON
+* Day 25 - Automation
+* Day 26 - Interfaces
+* Day 27 - Guided Project
+* Day 28 - Project Planning
+* Day 29 - Project Development
+* Day 30 - Final Project
 
 ---
 
